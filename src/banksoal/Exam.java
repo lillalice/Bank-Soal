@@ -41,7 +41,7 @@ public class Exam extends javax.swing.JInternalFrame {
         initComponents();
         
         try {
-            con = DriverManager.getConnection("jdbc:sqlserver://localhost;"
+            con = DriverManager.getConnection("jdbc:sqlserver://ALICE004;"
             + "databaseName=BankSoal_db;user=sa;password=root");
             
             stmt = con.createStatement();

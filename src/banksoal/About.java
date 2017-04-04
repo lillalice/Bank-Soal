@@ -43,7 +43,7 @@ public class About extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel1.setText("Bank Soal CPNS");
 
-        jLabel2.setText("Product version : 1.0.5 alpa");
+        jLabel2.setText("Product version : 1.0.7 alpa");
 
         jLabel3.setText("Aplikasi bank soal CPNS dengan metode tes dan kurikulum terbaru");
 

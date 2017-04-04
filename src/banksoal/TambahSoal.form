@@ -121,7 +121,7 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="kategori_cb" min="-2" max="-2" attributes="0"/>
                   </Group>
-                  <Component id="update" pref="44" max="32767" attributes="0"/>
+                  <Component id="update" max="32767" attributes="0"/>
               </Group>
               <EmptySpace min="-2" pref="97" max="-2" attributes="0"/>
               <Component id="cancel_bt" min="-2" max="-2" attributes="0"/>

@@ -37,7 +37,7 @@ public class HighScore extends javax.swing.JInternalFrame {
         dtm.addColumn("DateTime");
         
         try {
-            con = DriverManager.getConnection("jdbc:sqlserver://localhost;"
+            con = DriverManager.getConnection("jdbc:sqlserver://ALICE004;"
             + "databaseName=BankSoal_db;user=sa;password=root");            
             stmt = con.createStatement();                        
             sql = "SELECT * FROM dbo.HighScore";
